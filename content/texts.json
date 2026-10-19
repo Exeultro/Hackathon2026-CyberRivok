@@ -1,0 +1,460 @@
+{
+ "words": {
+  "ru": [
+   "на",
+   "он",
+   "мы",
+   "да",
+   "но",
+   "ты",
+   "вы",
+   "ли",
+   "за",
+   "из",
+   "от",
+   "до",
+   "не",
+   "дом",
+   "кот",
+   "лес",
+   "сон",
+   "мир",
+   "рот",
+   "нос",
+   "век",
+   "год",
+   "дым",
+   "лук",
+   "мяч",
+   "сад",
+   "суп",
+   "чай",
+   "шар",
+   "юг",
+   "луг",
+   "пар",
+   "рак",
+   "кит",
+   "жук",
+   "небо",
+   "река",
+   "мост",
+   "окно",
+   "поле",
+   "ночь",
+   "день",
+   "лето",
+   "зима",
+   "друг",
+   "слон",
+   "стол",
+   "лист",
+   "куст",
+   "гора",
+   "море",
+   "хлеб",
+   "волк",
+   "лиса",
+   "звук",
+   "ключ",
+   "герой",
+   "битва",
+   "замок",
+   "песня",
+   "тропа",
+   "ручей",
+   "слово",
+   "ветер",
+   "огонь",
+   "камни",
+   "буква",
+   "пламя",
+   "волна",
+   "лодка",
+   "трава",
+   "птица",
+   "дорога",
+   "лошадь",
+   "камень",
+   "победа",
+   "мудрец",
+   "дракон",
+   "корона",
+   "кузнец",
+   "сказка",
+   "звезда",
+   "пещера",
+   "клавиша",
+   "странник",
+   "королева",
+   "крепость",
+   "печатать",
+   "скорость",
+   "тревога",
+   "рыцарство",
+   "волшебник",
+   "дружина",
+   "тренировка",
+   "достижение",
+   "победитель"
+  ],
+  "en": [
+   "at",
+   "in",
+   "on",
+   "up",
+   "go",
+   "we",
+   "he",
+   "me",
+   "it",
+   "is",
+   "do",
+   "no",
+   "so",
+   "to",
+   "or",
+   "if",
+   "an",
+   "as",
+   "by",
+   "my",
+   "cat",
+   "dog",
+   "sun",
+   "map",
+   "key",
+   "run",
+   "red",
+   "big",
+   "sky",
+   "sea",
+   "war",
+   "bow",
+   "axe",
+   "hit",
+   "fly",
+   "hero",
+   "quest",
+   "road",
+   "tree",
+   "wolf",
+   "fire",
+   "king",
+   "gold",
+   "wind",
+   "rock",
+   "lake",
+   "moon",
+   "star",
+   "bird",
+   "sword",
+   "castle",
+   "forest",
+   "dragon",
+   "bridge",
+   "shield",
+   "arrow",
+   "knight",
+   "river",
+   "mountain",
+   "journey",
+   "village",
+   "warrior",
+   "kingdom",
+   "battle",
+   "rabbit",
+   "meadow",
+   "valley",
+   "typing",
+   "keyboard",
+   "practice",
+   "adventure",
+   "champion",
+   "fast",
+   "fingers",
+   "speed"
+  ]
+ },
+ "passages": [
+  {
+   "lang": "ru",
+   "level": 1,
+   "source": "ЭСБЕ, статья «Радуга»",
+   "text": "Радуга - всем известное оптическое явление в атмосфере; наблюдается, когда солнце освещает пелену падающего дождя и наблюдатель находится между солнцем и дождем."
+  },
+  {
+   "lang": "ru",
+   "level": 1,
+   "source": "ЭСБЕ, статья «Молния»",
+   "text": "Молния - так называется электрический разряд между двумя облаками, или между частями одного и того же облака, или между облаком и землею."
+  },
+  {
+   "lang": "ru",
+   "level": 1,
+   "source": "ЭСБЕ, статья «Компас»",
+   "text": "Компас (морск.) - важнейший инструмент для кораблевождения, указывающий направление стран света и ту из них, по которой корабль правят."
+  },
+  {
+   "lang": "ru",
+   "level": 2,
+   "source": "Д. И. Менделеев, ЭСБЕ, «Периодическая законность»",
+   "text": "Всю совокупность соотношений, замечаемых при подобных сличениях, можно сформулировать в следующем положении: химические и физические свойства соединений, образуемых элементами, находятся в периодической зависимости от величины атомного веса элементов."
+  },
+  {
+   "lang": "ru",
+   "level": 2,
+   "source": "М. В. Ломоносов, «Слово о пользе химии»",
+   "text": "Широко распростирает химия руки свои в дела человеческие, слушатели! Куда ни посмотрим, куда ни оглянемся, везде обращаются пред очами нашими успехи ее прилежания."
+  },
+  {
+   "lang": "ru",
+   "level": 2,
+   "source": "М. В. Ломоносов, «Слово о пользе химии»",
+   "text": "Науки подают ясное о вещах понятие и открывают потаенные действий и свойств причины; художества к приумножению человеческой пользы оные употребляют."
+  },
+  {
+   "lang": "ru",
+   "level": 2,
+   "source": "М. В. Ломоносов, «Слово о пользе химии»",
+   "text": "Но ежели когда-нибудь сие таинство откроется, то подлинно химия тому первая предводительница будет, первая откроет завесу внутреннейшего сего святилища натуры."
+  },
+  {
+   "lang": "ru",
+   "level": 3,
+   "source": "Н. В. Гоголь, «Страшная месть»",
+   "text": "Чуден Днепр при тихой погоде, когда вольно и плавно мчит сквозь леса и горы полные воды свои. Ни зашелохнет; ни прогремит. Глядишь, и не знаешь, идет или не идет его величавая ширина, и чудится, будто весь вылит он из стекла, и будто голубая зеркальная дорога, без меры в ширину, без конца в длину, реет и вьется по зеленому миру."
+  },
+  {
+   "lang": "ru",
+   "level": 3,
+   "source": "Л. Н. Толстой, «Анна Каренина»",
+   "text": "Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему. Все смешалось в доме Облонских."
+  },
+  {
+   "lang": "ru",
+   "level": 3,
+   "source": "А. П. Чехов, «Дама с собачкой»",
+   "text": "Говорили, что на набережной появилось новое лицо: дама с собачкой. Дмитрий Дмитрич Гуров, проживший в Ялте уже две недели и привыкший тут, тоже стал интересоваться новыми лицами."
+  },
+  {
+   "lang": "ru",
+   "level": 3,
+   "source": "И. С. Тургенев, «Русский язык»",
+   "text": "Во дни сомнений, во дни тягостных раздумий о судьбах моей родины, - ты один мне поддержка и опора, о великий, могучий, правдивый и свободный русский язык! Не будь тебя - как не впасть в отчаяние при виде всего, что совершается дома?"
+  },
+  {
+   "lang": "ru",
+   "level": 4,
+   "source": "А. С. Пушкин, «Зимнее утро»",
+   "text": "Мороз и солнце; день чудесный!\nЕще ты дремлешь, друг прелестный -\nПора, красавица, проснись:\nОткрой сомкнуты негой взоры\nНавстречу северной Авроры,\nЗвездою севера явись!"
+  },
+  {
+   "lang": "ru",
+   "level": 4,
+   "source": "С. А. Есенин, «Берёза»",
+   "text": "Белая берёза\nПод моим окном\nПринакрылась снегом,\nТочно серебром.\nНа пушистых ветках\nСнежною каймой\nРаспустились кисти\nБелой бахромой."
+  },
+  {
+   "lang": "ru",
+   "level": 4,
+   "source": "Ф. И. Тютчев, «Весенняя гроза»",
+   "text": "Люблю грозу в начале мая,\nКогда весенний, первый гром,\nКак бы резвяся и играя,\nГрохочет в небе голубом."
+  },
+  {
+   "lang": "ru",
+   "level": 4,
+   "source": "А. С. Пушкин, «Зимний вечер»",
+   "text": "Буря мглою небо кроет,\nВихри снежные крутя;\nТо, как зверь, она завоет,\nТо заплачет, как дитя,\nТо по кровле обветшалой\nВдруг соломой зашумит,\nТо, как путник запоздалый,\nК нам в окошко застучит."
+  },
+  {
+   "lang": "ru",
+   "level": 5,
+   "source": "А. С. Пушкин, «Я помню чудное мгновенье»",
+   "text": "Я помню чудное мгновенье:\nПередо мной явилась ты,\nКак мимолетное виденье,\nКак гений чистой красоты.\nВ томленьях грусти безнадежной,\nВ тревогах шумной суеты,\nЗвучал мне долго голос нежный\nИ снились милые черты."
+  },
+  {
+   "lang": "ru",
+   "level": 5,
+   "source": "М. Ю. Лермонтов, «Выхожу один я на дорогу»",
+   "text": "Выхожу один я на дорогу;\nСквозь туман кремнистый путь блестит;\nНочь тиха. Пустыня внемлет богу,\nИ звезда с звездою говорит."
+  },
+  {
+   "lang": "ru",
+   "level": 5,
+   "source": "А. А. Блок, «Ночь, улица, фонарь, аптека»",
+   "text": "Ночь, улица, фонарь, аптека,\nБессмысленный и тусклый свет.\nЖиви еще хоть четверть века -\nВсё будет так. Исхода нет."
+  },
+  {
+   "lang": "ru",
+   "level": 5,
+   "source": "Ф. И. Тютчев, «Silentium!»",
+   "text": "Молчи, скрывайся и таи\nИ чувства и мечты свои -\nПускай в душевной глубине\nВстают и заходят оне\nБезмолвно, как звезды в ночи, -\nЛюбуйся ими - и молчи."
+  },
+  {
+   "lang": "ru",
+   "level": 5,
+   "source": "О. Э. Мандельштам, «Бессонница. Гомер. Тугие паруса»",
+   "text": "Бессонница. Гомер. Тугие паруса.\nЯ список кораблей прочел до середины:\nСей длинный выводок, сей поезд журавлиный,\nЧто над Элладою когда-то поднялся.\nКак журавлиный клин в чужие рубежи, -\nНа головах царей божественная пена, -\nКуда плывете вы? Когда бы не Елена,\nЧто Троя вам одна, ахейские мужи?"
+  },
+  {
+   "lang": "en",
+   "level": 1,
+   "source": "PEP 20, The Zen of Python (T. Peters)",
+   "text": "Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated."
+  },
+  {
+   "lang": "en",
+   "level": 1,
+   "source": "PEP 20, The Zen of Python (T. Peters)",
+   "text": "Flat is better than nested. Sparse is better than dense. Readability counts."
+  },
+  {
+   "lang": "en",
+   "level": 1,
+   "source": "PEP 20, The Zen of Python (T. Peters)",
+   "text": "Errors should never pass silently. Unless explicitly silenced."
+  },
+  {
+   "lang": "en",
+   "level": 1,
+   "source": "PEP 20, The Zen of Python (T. Peters)",
+   "text": "In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it."
+  },
+  {
+   "lang": "en",
+   "level": 2,
+   "source": "I. Newton, Principia, Law I (trans. A. Motte)",
+   "text": "Every body perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impress'd thereon."
+  },
+  {
+   "lang": "en",
+   "level": 2,
+   "source": "I. Newton, Principia, Law II (trans. A. Motte)",
+   "text": "The alteration of motion is ever proportional to the motive force impress'd; and is made in the direction of the right line in which that force is impress'd."
+  },
+  {
+   "lang": "en",
+   "level": 2,
+   "source": "I. Newton, Principia, Law III (trans. A. Motte)",
+   "text": "To every Action there is always opposed an equal Reaction: or the mutual actions of two bodies upon each other are always equal, and directed to contrary parts."
+  },
+  {
+   "lang": "en",
+   "level": 2,
+   "source": "A. A. Lovelace, Notes on the Analytical Engine",
+   "text": "We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves."
+  },
+  {
+   "lang": "en",
+   "level": 3,
+   "source": "J. Austen, Pride and Prejudice",
+   "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters."
+  },
+  {
+   "lang": "en",
+   "level": 3,
+   "source": "C. Dickens, Great Expectations",
+   "text": "My father's family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip."
+  },
+  {
+   "lang": "en",
+   "level": 3,
+   "source": "H. Melville, Moby-Dick",
+   "text": "Call me Ishmael. Some years ago-never mind how long precisely-having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world."
+  },
+  {
+   "lang": "en",
+   "level": 3,
+   "source": "C. Darwin, On the Origin of Species",
+   "text": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved."
+  },
+  {
+   "lang": "en",
+   "level": 4,
+   "source": "R. Frost, Stopping by Woods on a Snowy Evening",
+   "text": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow."
+  },
+  {
+   "lang": "en",
+   "level": 4,
+   "source": "R. Frost, The Road Not Taken",
+   "text": "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;"
+  },
+  {
+   "lang": "en",
+   "level": 4,
+   "source": "W. Shakespeare, Sonnet 18",
+   "text": "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date;"
+  },
+  {
+   "lang": "en",
+   "level": 4,
+   "source": "W. Wordsworth, I Wandered Lonely as a Cloud",
+   "text": "I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden daffodils:\nBeside the lake, beneath the trees,\nFluttering and dancing in the breeze."
+  },
+  {
+   "lang": "en",
+   "level": 5,
+   "source": "E. A. Poe, The Raven",
+   "text": "Once upon a midnight dreary, while I pondered, weak and weary,\nOver many a quaint and curious volume of forgotten lore-\nWhile I nodded, nearly napping, suddenly there came a tapping,\nAs of some one gently rapping, rapping at my chamber door.\n\"'Tis some visiter,\" I muttered, \"tapping at my chamber door-\nOnly this and nothing more.\""
+  },
+  {
+   "lang": "en",
+   "level": 5,
+   "source": "S. T. Coleridge, Kubla Khan",
+   "text": "In Xanadu did Kubla Khan\nA stately pleasure-dome decree:\nWhere Alph, the sacred river, ran\nThrough caverns measureless to man\nDown to a sunless sea."
+  },
+  {
+   "lang": "en",
+   "level": 5,
+   "source": "A. Tennyson, Ulysses",
+   "text": "Tho' much is taken, much abides; and tho'\nWe are not now that strength which in old days\nMoved earth and heaven; that which we are, we are;\nOne equal temper of heroic hearts,\nMade weak by time and fate, but strong in will\nTo strive, to seek, to find, and not to yield."
+  },
+  {
+   "lang": "en",
+   "level": 5,
+   "source": "J. Keats, Ode to a Nightingale",
+   "text": "My heart aches, and a drowsy numbness pains\nMy sense, as though of hemlock I had drunk,\nOr emptied some dull opiate to the drains\nOne minute past, and Lethe-wards had sunk:"
+  }
+ ],
+ "code": {
+  "python": [
+   "def greet(name):\n    return 'Hello, ' + name\n\nprint(greet('hero'))",
+   "for i in range(5):\n    if i % 2 == 0:\n        print(i)",
+   "items = [1, 2, 3]\ntotal = sum(items)\nprint(total)",
+   "class Hero:\n    def __init__(self, hp):\n        self.hp = hp"
+  ],
+  "javascript": [
+   "const add = (a, b) => a + b;\nconsole.log(add(2, 3));",
+   "function greet(name) {\n    return `Hello, ${name}`;\n}",
+   "const items = [1, 2, 3];\nconst total = items.reduce((a, b) => a + b, 0);",
+   "for (let i = 0; i < 5; i++) {\n    if (i % 2 === 0) console.log(i);\n}"
+  ],
+  "html": [
+   "<div class=\"hero\">\n    <h1>Hello</h1>\n    <p>Type fast!</p>\n</div>",
+   "<ul>\n    <li>Sword</li>\n    <li>Shield</li>\n</ul>",
+   "<a href=\"/map\" class=\"btn\">Start</a>"
+  ],
+  "css": [
+   ".hero {\n    color: #f5b942;\n    margin: 0 auto;\n}",
+   "body {\n    background: #1b1d24;\n    font-size: 16px;\n}"
+  ]
+ },
+ "symbols": {
+  "en": [
+   "abcdefghijklmnopqrstuvwxyz0123456789",
+   ".,;:",
+   "()[]{}",
+   "@#$%&*",
+   "^~|\\/<>=+-_!?"
+  ],
+  "ru": [
+   "абвгдежзийклмнопрстуфхцчшщыьэюя0123456789",
+   ".,;:",
+   "()",
+   "\"№%*",
+   "!?-=+_"
+  ]
+ }
+}

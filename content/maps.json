@@ -1,0 +1,840 @@
+{
+  "maps": [
+    {
+      "id": "journey",
+      "title": "Путешествие",
+      "description": "Спокойный старт, мягкие пороги",
+      "color": "#4ade80",
+      "recommended_level": 1,
+      "nodes": [
+        {
+          "id": "journey-1",
+          "order": 1,
+          "title": "Слова",
+          "mode": "words",
+          "difficulty": 1,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 15,
+              "min_accuracy": 85
+            },
+            {
+              "min_wpm": 17,
+              "min_accuracy": 86.5
+            },
+            {
+              "min_wpm": 18,
+              "min_accuracy": 88
+            }
+          ]
+        },
+        {
+          "id": "journey-2",
+          "order": 2,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 1,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 18,
+              "min_accuracy": 85.7
+            },
+            {
+              "min_wpm": 20,
+              "min_accuracy": 87.2
+            },
+            {
+              "min_wpm": 21,
+              "min_accuracy": 88.7
+            }
+          ]
+        },
+        {
+          "id": "journey-3",
+          "order": 3,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 21,
+              "min_accuracy": 86.4
+            },
+            {
+              "min_wpm": 23,
+              "min_accuracy": 87.9
+            },
+            {
+              "min_wpm": 24,
+              "min_accuracy": 89.4
+            }
+          ],
+          "code_language": "python"
+        },
+        {
+          "id": "journey-4",
+          "order": 4,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 24,
+              "min_accuracy": 87.1
+            },
+            {
+              "min_wpm": 26,
+              "min_accuracy": 88.6
+            },
+            {
+              "min_wpm": 27,
+              "min_accuracy": 90.1
+            }
+          ]
+        },
+        {
+          "id": "journey-5",
+          "order": 5,
+          "title": "Символы",
+          "mode": "symbols",
+          "difficulty": 3,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 27,
+              "min_accuracy": 87.8
+            },
+            {
+              "min_wpm": 29,
+              "min_accuracy": 89.3
+            },
+            {
+              "min_wpm": 30,
+              "min_accuracy": 90.8
+            }
+          ]
+        },
+        {
+          "id": "journey-6",
+          "order": 6,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 3,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 30,
+              "min_accuracy": 88.5
+            },
+            {
+              "min_wpm": 32,
+              "min_accuracy": 90
+            },
+            {
+              "min_wpm": 33,
+              "min_accuracy": 91.5
+            }
+          ]
+        },
+        {
+          "id": "journey-7",
+          "order": 7,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 33,
+              "min_accuracy": 89.2
+            },
+            {
+              "min_wpm": 35,
+              "min_accuracy": 90.7
+            },
+            {
+              "min_wpm": 36,
+              "min_accuracy": 92.2
+            }
+          ],
+          "code_language": "javascript"
+        },
+        {
+          "id": "journey-8",
+          "order": 8,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 36,
+              "min_accuracy": 89.9
+            },
+            {
+              "min_wpm": 38,
+              "min_accuracy": 91.4
+            },
+            {
+              "min_wpm": 39,
+              "min_accuracy": 92.9
+            }
+          ]
+        },
+        {
+          "id": "journey-9",
+          "order": 9,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 5,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 39,
+              "min_accuracy": 90.6
+            },
+            {
+              "min_wpm": 41,
+              "min_accuracy": 92.1
+            },
+            {
+              "min_wpm": 42,
+              "min_accuracy": 93.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chase",
+      "title": "Погоня",
+      "description": "Скорость важнее точности",
+      "color": "#fb923c",
+      "recommended_level": 5,
+      "nodes": [
+        {
+          "id": "chase-1",
+          "order": 1,
+          "title": "Слова",
+          "mode": "words",
+          "difficulty": 1,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 35,
+              "min_accuracy": 80
+            },
+            {
+              "min_wpm": 38,
+              "min_accuracy": 81.5
+            },
+            {
+              "min_wpm": 41,
+              "min_accuracy": 83
+            }
+          ]
+        },
+        {
+          "id": "chase-2",
+          "order": 2,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 1,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 41,
+              "min_accuracy": 80.7
+            },
+            {
+              "min_wpm": 44,
+              "min_accuracy": 82.2
+            },
+            {
+              "min_wpm": 47,
+              "min_accuracy": 83.7
+            }
+          ]
+        },
+        {
+          "id": "chase-3",
+          "order": 3,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 47,
+              "min_accuracy": 81.4
+            },
+            {
+              "min_wpm": 50,
+              "min_accuracy": 82.9
+            },
+            {
+              "min_wpm": 53,
+              "min_accuracy": 84.4
+            }
+          ],
+          "code_language": "python"
+        },
+        {
+          "id": "chase-4",
+          "order": 4,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 53,
+              "min_accuracy": 82.1
+            },
+            {
+              "min_wpm": 56,
+              "min_accuracy": 83.6
+            },
+            {
+              "min_wpm": 59,
+              "min_accuracy": 85.1
+            }
+          ]
+        },
+        {
+          "id": "chase-5",
+          "order": 5,
+          "title": "Символы",
+          "mode": "symbols",
+          "difficulty": 3,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 59,
+              "min_accuracy": 82.8
+            },
+            {
+              "min_wpm": 62,
+              "min_accuracy": 84.3
+            },
+            {
+              "min_wpm": 65,
+              "min_accuracy": 85.8
+            }
+          ]
+        },
+        {
+          "id": "chase-6",
+          "order": 6,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 3,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 65,
+              "min_accuracy": 83.5
+            },
+            {
+              "min_wpm": 68,
+              "min_accuracy": 85
+            },
+            {
+              "min_wpm": 71,
+              "min_accuracy": 86.5
+            }
+          ]
+        },
+        {
+          "id": "chase-7",
+          "order": 7,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 71,
+              "min_accuracy": 84.2
+            },
+            {
+              "min_wpm": 74,
+              "min_accuracy": 85.7
+            },
+            {
+              "min_wpm": 77,
+              "min_accuracy": 87.2
+            }
+          ],
+          "code_language": "javascript"
+        },
+        {
+          "id": "chase-8",
+          "order": 8,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 77,
+              "min_accuracy": 84.9
+            },
+            {
+              "min_wpm": 80,
+              "min_accuracy": 86.4
+            },
+            {
+              "min_wpm": 83,
+              "min_accuracy": 87.9
+            }
+          ]
+        },
+        {
+          "id": "chase-9",
+          "order": 9,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 5,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 83,
+              "min_accuracy": 85.6
+            },
+            {
+              "min_wpm": 86,
+              "min_accuracy": 87.1
+            },
+            {
+              "min_wpm": 89,
+              "min_accuracy": 88.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "search",
+      "title": "Поиск",
+      "description": "Точность важнее скорости",
+      "color": "#2dd4bf",
+      "recommended_level": 5,
+      "nodes": [
+        {
+          "id": "search-1",
+          "order": 1,
+          "title": "Слова",
+          "mode": "words",
+          "difficulty": 1,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 20,
+              "min_accuracy": 95
+            },
+            {
+              "min_wpm": 22,
+              "min_accuracy": 96.5
+            },
+            {
+              "min_wpm": 23,
+              "min_accuracy": 98
+            }
+          ]
+        },
+        {
+          "id": "search-2",
+          "order": 2,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 1,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 23,
+              "min_accuracy": 95.5
+            },
+            {
+              "min_wpm": 25,
+              "min_accuracy": 97
+            },
+            {
+              "min_wpm": 26,
+              "min_accuracy": 98.5
+            }
+          ]
+        },
+        {
+          "id": "search-3",
+          "order": 3,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 26,
+              "min_accuracy": 96
+            },
+            {
+              "min_wpm": 28,
+              "min_accuracy": 97.5
+            },
+            {
+              "min_wpm": 29,
+              "min_accuracy": 99
+            }
+          ],
+          "code_language": "python"
+        },
+        {
+          "id": "search-4",
+          "order": 4,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 29,
+              "min_accuracy": 96.5
+            },
+            {
+              "min_wpm": 31,
+              "min_accuracy": 98
+            },
+            {
+              "min_wpm": 32,
+              "min_accuracy": 99.5
+            }
+          ]
+        },
+        {
+          "id": "search-5",
+          "order": 5,
+          "title": "Символы",
+          "mode": "symbols",
+          "difficulty": 3,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 32,
+              "min_accuracy": 97
+            },
+            {
+              "min_wpm": 34,
+              "min_accuracy": 98.5
+            },
+            {
+              "min_wpm": 35,
+              "min_accuracy": 100
+            }
+          ]
+        },
+        {
+          "id": "search-6",
+          "order": 6,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 3,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 35,
+              "min_accuracy": 97.5
+            },
+            {
+              "min_wpm": 37,
+              "min_accuracy": 99
+            },
+            {
+              "min_wpm": 38,
+              "min_accuracy": 100
+            }
+          ]
+        },
+        {
+          "id": "search-7",
+          "order": 7,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 38,
+              "min_accuracy": 98
+            },
+            {
+              "min_wpm": 40,
+              "min_accuracy": 99.5
+            },
+            {
+              "min_wpm": 41,
+              "min_accuracy": 100
+            }
+          ],
+          "code_language": "javascript"
+        },
+        {
+          "id": "search-8",
+          "order": 8,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 41,
+              "min_accuracy": 98.5
+            },
+            {
+              "min_wpm": 43,
+              "min_accuracy": 100
+            },
+            {
+              "min_wpm": 44,
+              "min_accuracy": 100
+            }
+          ]
+        },
+        {
+          "id": "search-9",
+          "order": 9,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 5,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 44,
+              "min_accuracy": 99
+            },
+            {
+              "min_wpm": 46,
+              "min_accuracy": 100
+            },
+            {
+              "min_wpm": 47,
+              "min_accuracy": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "siege",
+      "title": "Осада",
+      "description": "И скорость, и точность - огонь издали",
+      "color": "#ef4444",
+      "recommended_level": 10,
+      "nodes": [
+        {
+          "id": "siege-1",
+          "order": 1,
+          "title": "Слова",
+          "mode": "words",
+          "difficulty": 1,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 35,
+              "min_accuracy": 94
+            },
+            {
+              "min_wpm": 38,
+              "min_accuracy": 95.5
+            },
+            {
+              "min_wpm": 40,
+              "min_accuracy": 97
+            }
+          ]
+        },
+        {
+          "id": "siege-2",
+          "order": 2,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 1,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 40,
+              "min_accuracy": 94.5
+            },
+            {
+              "min_wpm": 43,
+              "min_accuracy": 96
+            },
+            {
+              "min_wpm": 45,
+              "min_accuracy": 97.5
+            }
+          ]
+        },
+        {
+          "id": "siege-3",
+          "order": 3,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 45,
+              "min_accuracy": 95
+            },
+            {
+              "min_wpm": 48,
+              "min_accuracy": 96.5
+            },
+            {
+              "min_wpm": 50,
+              "min_accuracy": 98
+            }
+          ],
+          "code_language": "python"
+        },
+        {
+          "id": "siege-4",
+          "order": 4,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 2,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 50,
+              "min_accuracy": 95.5
+            },
+            {
+              "min_wpm": 53,
+              "min_accuracy": 97
+            },
+            {
+              "min_wpm": 55,
+              "min_accuracy": 98.5
+            }
+          ]
+        },
+        {
+          "id": "siege-5",
+          "order": 5,
+          "title": "Символы",
+          "mode": "symbols",
+          "difficulty": 3,
+          "text_count": 3,
+          "star_thresholds": [
+            {
+              "min_wpm": 55,
+              "min_accuracy": 96
+            },
+            {
+              "min_wpm": 58,
+              "min_accuracy": 97.5
+            },
+            {
+              "min_wpm": 60,
+              "min_accuracy": 99
+            }
+          ]
+        },
+        {
+          "id": "siege-6",
+          "order": 6,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 3,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 60,
+              "min_accuracy": 96.5
+            },
+            {
+              "min_wpm": 63,
+              "min_accuracy": 98
+            },
+            {
+              "min_wpm": 65,
+              "min_accuracy": 99.5
+            }
+          ]
+        },
+        {
+          "id": "siege-7",
+          "order": 7,
+          "title": "Код",
+          "mode": "code",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 65,
+              "min_accuracy": 97
+            },
+            {
+              "min_wpm": 68,
+              "min_accuracy": 98.5
+            },
+            {
+              "min_wpm": 70,
+              "min_accuracy": 100
+            }
+          ],
+          "code_language": "javascript"
+        },
+        {
+          "id": "siege-8",
+          "order": 8,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 4,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 70,
+              "min_accuracy": 97.5
+            },
+            {
+              "min_wpm": 73,
+              "min_accuracy": 99
+            },
+            {
+              "min_wpm": 75,
+              "min_accuracy": 100
+            }
+          ]
+        },
+        {
+          "id": "siege-9",
+          "order": 9,
+          "title": "Тексты",
+          "mode": "sentences",
+          "difficulty": 5,
+          "text_count": 1,
+          "star_thresholds": [
+            {
+              "min_wpm": 75,
+              "min_accuracy": 98
+            },
+            {
+              "min_wpm": 78,
+              "min_accuracy": 99.5
+            },
+            {
+              "min_wpm": 80,
+              "min_accuracy": 100
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
