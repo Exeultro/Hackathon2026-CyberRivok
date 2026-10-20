@@ -94,7 +94,7 @@ docker-compose.yml          — postgres + app
 
 Коды: `unauthorized`, `invalid_credentials`, `email_taken`, `nickname_taken`, `validation_error`, `not_found`, `rate_limited`, `internal_error`.
 
-## Правила игры (сервер — источник истины)
+## Правила игры 
 
 - **XP за сессию** = `round(chars_correct * accuracy/100 * (1 + difficulty * 0.1))`.
 - **Уровень**: с уровня `L` нужно `100 + 50*(L-1)` XP. `xp_in_level`/`xp_to_next` отдаются посчитанными.
@@ -125,6 +125,6 @@ docker-compose.yml          — postgres + app
 
 ## Известные ограничения
 
-- **`UpsertBest` карт** и `sessions.Repo.Create` — не в одной транзакции. Если `Create` упадёт, звёзды узла уже обновятся. Помечено TODO.
+- **`UpsertBest` карт** и `sessions.Repo.Create` — не в одной транзакции. Если `Create` упадёт, звёзды узла уже обновятся.
 - **`content/maps.json` / `content/texts.json`** — если фронт их не импортирует, контент живёт в Go-сидах и БД; фронт получает через `/maps` и `/texts`. Это поведение соответствует контракту, даже если не буквально «один файл».
 - **CORS** нужен только для dev (`localhost:5173`/`127.0.0.1:5173`). В Docker фронт и API на одном origin, CORS не участвует.
